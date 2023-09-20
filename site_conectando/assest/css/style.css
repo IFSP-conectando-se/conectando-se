@@ -91,6 +91,15 @@ button{
   color: chartreuse;
 }
 
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.logo .logo-ifsp{
+  width: 30%;
+}
+
 .overlay {
   position: absolute;
   top: 0; left: 0;
@@ -160,4 +169,18 @@ pre{
   text-align: left ;
   
 }
+.logo_conectando_index{
+  margin-top: 17%;
 
+}
+
+.conteudo_sobre{
+  color: white;
+  text-align: justify;
+  font-size: 20px;
+  margin-top: -20px !important;
+  font-weight: 400;
+  width: 100%;
+  max-width: 920px;
+  margin: auto;
+}
